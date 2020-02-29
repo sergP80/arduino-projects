@@ -22,7 +22,8 @@ void setup()
     if (WiFi.SSID() == "")
     {
       initConnection(); 
-    } else
+    }
+    else
     {
       WiFi.begin(WiFi.SSID().c_str(), WiFi.psk().c_str());
       if (WiFi.waitForConnectResult() != WL_CONNECTED)
