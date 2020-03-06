@@ -1,3 +1,11 @@
+/*
+ Link to boards https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+ Dependencies:
+  Blynk,
+  Dht sensor library
+  Adafruit Common Sens Lab
+  NOTE! Don't forget to choose ESPxx board
+*/
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
