@@ -12,8 +12,6 @@
 
 IRsend irsend(IR_SEND_PIN);
 
-//const char* ssid = "37820159";
-//const char* password = "2930618589387635320901162";
 const char * ap_ssid="IR-Server-AP-1";
 const char * ap_password="Gjk901sHg3Sbg";
 
