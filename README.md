@@ -22,4 +22,4 @@
 
 * WiFiManager
 
-![WiFiManager](WifiManager.png)
+![WiFiManager](./images/WifiManager.png)
